@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576795301432",
+    "project_id": "smartfisher-1df14",
+    "storage_bucket": "smartfisher-1df14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576795301432:android:2a59bc9e344758c25778cd",
+        "android_client_info": {
+          "package_name": "com.example.smartfisher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576795301432-3qqo4qvai35j9rsqd5h276hn6fdq4k8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5UUherbzfIEXUzK5RfRlnU_CcGk4xbDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576795301432-3qqo4qvai35j9rsqd5h276hn6fdq4k8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
